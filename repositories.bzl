@@ -30,7 +30,7 @@ VERSIONS = {
         "org": "grpc",
         "repo": "grpc",
         "ref": "v{}".format(GRPC_VERSION),
-        "sha256": "7f42363711eb483a0501239fd5522467b31d8fe98d70d7867c6ca7b52440d828",
+        "sha256": "7f42363721eb483a0501239fd5522467b31d8fe98d70d7867c6ca7b52440d828",
     },
     "zlib": {
         "type": "http",
@@ -194,7 +194,7 @@ VERSIONS = {
         "org": "grpc",
         "repo": "grpc-java",
         "ref": "v{}".format(GRPC_VERSION),
-        "sha256": "3762fd9a1045aa83d9a967840da142a1558565b76b470860282a1126e162799b",
+        "sha256": "3762fd9a1045ba83d9a967840da142a1558565b76b470860282a1126e162799b",
     },
     "rules_jvm_external": {
         "type": "github",
