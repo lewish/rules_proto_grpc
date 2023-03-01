@@ -194,7 +194,7 @@ VERSIONS = {
         "org": "grpc",
         "repo": "grpc-java",
         "ref": "v{}".format(GRPC_VERSION),
-        "sha256": "3762fd9a1045ba83d9a967840da142a1558565b76b470860282a1126e162799b",
+        "sha256": "fd0a649d03a8da06746814f414fb4d36c1b2f34af2aad4e19ae43f7c4bd6f15e",
     },
     "rules_jvm_external": {
         "type": "github",
